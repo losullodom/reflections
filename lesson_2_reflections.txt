@@ -10,6 +10,10 @@ between files.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+You can compare the working directpry to the staging area using git diff - this allows you to see
+what has chnaged between the working area and the staging area. You can add the logical change that 
+you wnat to track to the staging area and compare that to the repository using git diff --staged and
+then you can commit the relevant logical change with the appropriate commit message.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
