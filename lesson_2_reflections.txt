@@ -27,6 +27,9 @@ You can tell the dependencies between commits and what the parent of each commit
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The commits from both branches are merged together in time sequence or so that you have
+the latest commits from both branches together. We show it the way we do so that we can see which
+branch was merged into which other branch and can see what is now the tip of the branch.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
