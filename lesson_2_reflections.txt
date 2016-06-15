@@ -33,3 +33,5 @@ branch was merged into which other branch and can see what is now the tip of the
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+Pro - ypu mightn't remember all the changes and it helps to have a second set of eyes
+Cons - can be confusing if you are not paying attention
