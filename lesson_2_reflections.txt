@@ -23,6 +23,7 @@ a branch if you wanted to change the look of you application and you were experi
 if you were collaborating with someone else.
 
 How do the diagrams help you visualize the branch structure?
+You can tell the dependencies between commits and what the parent of each commit is.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
