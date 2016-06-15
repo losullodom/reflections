@@ -17,6 +17,10 @@ then you can commit the relevant logical change with the appropriate commit mess
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+You could create a branch if you wanted to try to add a new featture to you code but you weren't sure
+if the new feature would be a valulable addition or not, you could add a branch to make a backup, you can add
+a branch if you wanted to change the look of you application and you were experimenting, you could add a branch
+if you were collaborating with someone else.
 
 How do the diagrams help you visualize the branch structure?
 
