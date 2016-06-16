@@ -26,7 +26,8 @@ and resolve it and then get everything up to date.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+Email - but ot would be difficult to keep track of everything.
+Dropbox/Google Drive - the change log would be difficult though
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
