@@ -18,7 +18,10 @@ A branch is a label for a commit from which point you branch off to fix a bug or
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+Because when you are collaborating there is a potential for a collaborator too push conflicting
+changes to your local copy of the repository to GitHub before you get a chance to push you local copy.
+Having a copy of the last known state of the remote stored locally helps us to identofy the conflict
+and resolve it and then get everything up to date.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
