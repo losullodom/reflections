@@ -32,4 +32,10 @@ Dropbox/Google Drive - the change log would be difficult though
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When you are trying to add a new feature but you're not sure yet if that feature fits or will work 
+- putting it directly into the master doesn't make sense. Branching makes more sense and then when you 
+try it out, if it works you can merge it into the master and incorporate the feature otherwise you
+can delete the branch or park it and come back to it later. Creating a branch is also useful when you
+are collaborating with other, you can try something out while others are working on the master and
+when you're finished issue a pull request to see if what you've done is okay and can be pulled into
+the master.
